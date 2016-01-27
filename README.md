@@ -1,2 +1,17 @@
 # SQLHardwareDB
-SQL sample code from old assignment.
+## 
+
+
+### Purpose:
+Create simple database with client requirements.
+
+### Method:
+
+
+
+### Overview:
+ * MS SQL Server 2008
+
+
+## Future Advanced Improvements:
+
